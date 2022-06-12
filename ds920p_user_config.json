@@ -1,0 +1,13 @@
+{
+    "extra_cmdline": {
+        "pid": "0x0001",
+        "vid": "0x46f4",
+        "sn": "2110SBR82WBHQ",
+		"netif_num": "2",
+		"mac1": "001132E984F7"
+        "mac1": "001132E984F8"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
